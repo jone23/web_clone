@@ -4,6 +4,6 @@
 
 
 ## Teams
-| Minji Koh | Jisoo Yoo | Hyeonseo Bae | Jewon Huh | Jaeyeon Kim | Jimin Kim |
-|:---------:|:---------:|:------------:|:---------:|:-----------:|:---------:|
-| Developer |     PM    |   Desinger   |     PM    |  Developer  |  Develper |
+| Minji Koh | Jisoo Yoo | Hyeonseo Ryu | Jewon Huh | Jaeyeon Kim |  Jimin Kim  |
+|:---------:|:---------:|:------------:|:---------:|:-----------:|:-----------:|
+| Developer |     PM    |   Designer   |     PM    |  Developer  |  Developer  |
