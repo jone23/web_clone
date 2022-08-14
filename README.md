@@ -1,6 +1,15 @@
-# 🔎:lock: LOOKLOCK 
-룩락 로고와 서비스 설명해주는 사진 하나 추가 예정   
-LookLock is a aggregator platform to make it easy to approach all lockdrop projects in Polygon ecosystem.   
+# 🔎:lock: LOOKLOCK
+로고 넣을 예정   
+LookLock is a aggregator platform to make it easy to approach all lockdrop projects in Polygon ecosystem.  
+   
+Examples of which features are powered by LookLock include:   
+#### For investor user
+* Grasping all lockdrop projects at a glance.   
+* Simplifying the lockdrop procedure   
+
+#### For admin user
+* launching lockdrop pojects     
+* Expose new projects to users interested in Lockdrop
    
    
    
