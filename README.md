@@ -10,7 +10,7 @@
 * [Features](#Features)
 	* [Project List](#Project-List)
 	* [Project Details](#Project-Details)
-	* [My Status](#My-Status)
+	* [My Status](#Status)
 * [Development Topic](#Development-Topic)
 * [Online Demo](#Online-Demo)
 
@@ -49,7 +49,8 @@ Investors can find diverse lockdrop projects only just on a few page. They can g
 ![ProjectList](https://user-images.githubusercontent.com/87629090/184646242-9f11835d-a52b-4714-8688-3fd6efad475f.png)   
 If investors want to know more about the project, they can see detailed information on the project details page.   
 
-#### Status (for investor&project launcher)
+#### Status 
+* for investor&project launcher
 ![MyStatus](https://user-images.githubusercontent.com/87629090/184646251-1190f0e7-c8c7-40d3-b399-c678cc48be88.png)   
 Investors can check the status of their investments and unclock the token as the project ends.   
 
