@@ -4,8 +4,20 @@
 * [Hackcthon Introduction](https://buidlit.polygon.technology/)
 * DeFi Track    
 
-## ABOUT LOOKLOCK
-(로고 이미지 넣을 예정)     
+## Table of Contents   
+* [About](#About)    
+* [Teams](#Teams)
+* [Features](#Features)
+	* [Project List](#Project-List)
+	* [Project Details](#Project-Details)
+	* [My Status](#My-Status)
+* [Development Topic](#Development-Topic)
+* [Online Demo](#Online-Demo)
+
+* * *
+
+## About
+(로고 이미지)     
    
 **LookLock** is a aggregator platform to make it easy to approach all lockdrop projects in Polygon ecosystem.   
    
@@ -15,11 +27,11 @@ We can help investors efficiently access and contribute to new lockdrop events a
 
    
 Examples of which features are powered by LookLock include:   
-#### For investor user
+##### For investor user
 * Grasping all lockdrop projects at a glance.   
 * Simplifying the lockdrop procedure   
 
-#### For admin user
+##### For admin user
 * launching lockdrop pojects     
 * Expose new projects to users interested in Lockdrop
    
@@ -28,6 +40,21 @@ Examples of which features are powered by LookLock include:
 |:---------:|:---------:|:------------:|:---------:|:-----------:|:-----------:|
 | Developer |     PM    |   Designer   |     PM    |  Developer  |  Developer  |
 
+## Features
+#### Project List   
+![ProjectDetail](https://user-images.githubusercontent.com/87629090/184646233-63261fdc-89e3-4ee6-ad35-af4b9ca7f9ea.png)   
+Investors can find diverse lockdrop projects only just on a few page. They can grasp the information of the projects such as rewards, lock period, phase at a glance.   
+
+#### Project Details
+![ProjectList](https://user-images.githubusercontent.com/87629090/184646242-9f11835d-a52b-4714-8688-3fd6efad475f.png)   
+If investors want to know more about the project, they can see detailed information on the project details page.   
+
+#### Status (for investor&project launcher)
+![MyStatus](https://user-images.githubusercontent.com/87629090/184646251-1190f0e7-c8c7-40d3-b399-c678cc48be88.png)   
+Investors can check the status of their investments and unclock the token as the project ends.   
+
+(대쉬보드 사진)
+Projects launchers can start their projects or see the projects’ progression in admin page.
 
 ## Development Topic
 * (개발 도구)
