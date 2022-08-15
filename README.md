@@ -1,6 +1,7 @@
 # LOOKLOCK 🔎:lock:
-<p align="center"><img src="https://user-images.githubusercontent.com/87629090/184652411-014692d9-497b-4c87-adf5-220bec80d1e3.png" height=150px width="200px"></p>
-<center>Ultimate place to launch Lockdrop</center>     
+<p align="center"><img src="https://user-images.githubusercontent.com/87629090/184652411-014692d9-497b-4c87-adf5-220bec80d1e3.png" height=160px width="200px"></p>   
+<div align="center"><i>Ultimate place to launch Lockdrop.</i><br>
+<b>LookLock</b> is a aggregator platform to make it easy to approach all lockdrop projects in <b>Polygon</b> ecosystem.</div>
 
 
 #### For Polygon BUIDL IT : Summer 2022
@@ -50,9 +51,10 @@ Investors can find diverse lockdrop projects only just on a few page. They can g
 ![ProjectList](https://user-images.githubusercontent.com/87629090/184646242-9f11835d-a52b-4714-8688-3fd6efad475f.png)   
 If investors want to know more about the project, they can see detailed information on the project details page.   
 
-#### Status 
-* for investor&project launcher   
-![MyStatus](https://user-images.githubusercontent.com/87629090/184646251-1190f0e7-c8c7-40d3-b399-c678cc48be88.png)   
+#### Status   
+![MyStatus](https://user-images.githubusercontent.com/87629090/184646251-1190f0e7-c8c7-40d3-b399-c678cc48be88.png)      
+* for both investor and project launcher      
+
 Investors can check the status of their investments and unclock the token as the project ends.   
 
 (대쉬보드 사진)   
