@@ -1,7 +1,7 @@
 # LOOKLOCK 🔎:lock:
 
 #### For Polygon BUIDL IT : Summer 2022
-[Hackcthon Introduction](https://buidlit.polygon.technology/)
+* [Hackcthon Introduction](https://buidlit.polygon.technology/)
 * DeFi Track    
 
 ## ABOUT LOOKLOCK
@@ -27,6 +27,7 @@ Examples of which features are powered by LookLock include:
 | Minji Koh | Jisoo Yoo | Hyeonseo Ryu | Jewon Huh | Jaeyeon Kim |  Jimin Kim  |
 |:---------:|:---------:|:------------:|:---------:|:-----------:|:-----------:|
 | Developer |     PM    |   Designer   |     PM    |  Developer  |  Developer  |
+
 
 ## Development Topic
 * (개발 도구)
