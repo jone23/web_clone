@@ -1,4 +1,7 @@
 # LOOKLOCK 🔎:lock:
+<p align="center"><img src="https://user-images.githubusercontent.com/87629090/184652411-014692d9-497b-4c87-adf5-220bec80d1e3.png" height=150px width="200px"></p>
+<center>Ultimate place to launch Lockdrop</center>     
+
 
 #### For Polygon BUIDL IT : Summer 2022
 * [Hackcthon Introduction](https://buidlit.polygon.technology/)
@@ -12,9 +15,7 @@
 	* [Project Details](#Project-Details)
 	* [My Status](#Status)
 * [Development Topic](#Development-Topic)
-* [Online Demo](#Online-Demo)
-
-* * *
+* [Online Demo](#Online-Demo)    
 
 ## About
 (로고 이미지)     
