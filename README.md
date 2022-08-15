@@ -32,7 +32,7 @@ Examples of which features are powered by LookLock include:
 * Simplifying the lockdrop procedure   
 
 ##### For admin user
-* launching lockdrop pojects     
+* launching lockdrop projects     
 * Expose new projects to users interested in Lockdrop
    
 ## Teams
@@ -50,11 +50,11 @@ Investors can find diverse lockdrop projects only just on a few page. They can g
 If investors want to know more about the project, they can see detailed information on the project details page.   
 
 #### Status 
-* for investor&project launcher
+* for investor&project launcher   
 ![MyStatus](https://user-images.githubusercontent.com/87629090/184646251-1190f0e7-c8c7-40d3-b399-c678cc48be88.png)   
 Investors can check the status of their investments and unclock the token as the project ends.   
 
-(대쉬보드 사진)
+(대쉬보드 사진)   
 Projects launchers can start their projects or see the projects’ progression in admin page.
 
 ## Development Topic
